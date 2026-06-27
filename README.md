@@ -89,3 +89,5 @@ Real medical AI systems (like those used in hospitals) are trained on millions o
 - Add a "when to see a doctor urgently" warning based on red-flag symptoms
 - Support multiple languages including Malayalam for Kerala users
 - Add duration and frequency of symptoms as additional features
+
+  Made by Aleesha Binoy — BCA Data Science & AI
