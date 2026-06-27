@@ -4,9 +4,7 @@ A machine learning web app that analyses selected symptoms and suggests possible
 
 ## Demo
 
-![App screenshot](screenshot.png)
-
-Live app: [Add your deployed Streamlit link here once deployed]
+Live app: [https://disease-symptom-checker-bt6bxq8gz5jirnhazdr3pp.streamlit.app/]
 
 ## What it does
 
